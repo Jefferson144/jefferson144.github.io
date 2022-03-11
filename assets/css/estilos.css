@@ -8,3 +8,7 @@
 .acerca{
     padding-right: -100px;
 }
+
+#hipervinculo:hover{
+    color: white;
+}
